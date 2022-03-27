@@ -1,7 +1,8 @@
 > Hi, I’m @Gbarione 👋 </br>
 > I’m interested in techs	💻 </br>
 > I'm graduated in computer science and now pursuing postgraduate studies in Dev Web FullStack	🎓 </br>
-> I’m currently learning ReactJS, ExpressJS	🤓 </br>
+> I’m currently learning VueJs, ExpressJS	🤓 </br>
+> I have some knowledge in NestJS/NodeJS	🔥 </br>
 > How to reach me	🔎 </br>
 
 
